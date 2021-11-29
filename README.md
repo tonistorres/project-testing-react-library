@@ -70,7 +70,7 @@ Este repositório já contém uma aplicação React criada e configurada. Após 
 ## Data de entrega
 
   - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Data de entrega para avaliação final do projeto: `08/12/2021 - 14:00h`.
 
 # Instruções para entregar seu projeto
 
@@ -78,6 +78,8 @@ Este repositório já contém uma aplicação React criada e configurada. Após 
 
 1. Clone o repositório
   * `git clone https://github.com/tryber/sd-016-b-project-react-testing-library.git`
+  Ou
+  * `git clone git@github.com:tryber/sd-016-b-project-react-testing-library.git`
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-016-b-project-react-testing-library`
 
