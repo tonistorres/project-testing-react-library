@@ -1,6 +1,7 @@
 .pokemon-details {
   margin: auto;
   width: 85%;
+  border: 1px solid black;
 }
 
 .pokemon-habitat {
