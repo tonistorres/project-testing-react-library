@@ -3,11 +3,8 @@ import { screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import renderWithRouter from './renderWithRouter';
 import App from '../App';
-// import Pokemon from '../components/Pokemon';
-// import pokemons from '../data';
 
 describe('Teste o componente <Pokemon.js />', () => {
-
   it('O nome correto do Pokémon deve ser mostrado na tela;', () => {
     renderWithRouter(<App />);
     const pokemonInicial = screen.getByText(/pikachu/i);
